@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuickClose-Mobile</string>
+    <string name="btn_shutdown">Shutdown</string>
+</resources>
